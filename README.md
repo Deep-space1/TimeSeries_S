@@ -25,7 +25,7 @@
 #### - ARIMA / Walk Forward ARIMA.
 
 ### 4) US Airlines Miles Per Year
-#### - Data Visualisation: Lag Plots, AutoCorrelation Plots
+#### - Data Visualisation: (Lag Plots, AutoCorrelation Plots)
 #### - Down Sampling and Upsampling Data
 #### - Decomposing Time Series with additive and multiplicative models.
 #### - SARIMA, Seasonal ARIMA.
